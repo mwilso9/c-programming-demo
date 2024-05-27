@@ -1,0 +1,1 @@
+../build-Debug/DataStructures/linkedLists.c.o ../build-Debug/DataStructures/binaryTrees.c.o ../build-Debug/DataStructures/queues.c.o ../build-Debug/DataStructures/main.c.o ../build-Debug/DataStructures/stacks.c.o ../build-Debug/DataStructures/linkedListsChall.c.o

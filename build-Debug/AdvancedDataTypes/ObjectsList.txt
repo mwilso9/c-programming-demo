@@ -1,0 +1,1 @@
+../build-Debug/AdvancedDataTypes/main.c.o ../build-Debug/AdvancedDataTypes/Challenge1.c.o ../build-Debug/AdvancedDataTypes/Challenge2.c.o ../build-Debug/AdvancedDataTypes/challenge3.c.o

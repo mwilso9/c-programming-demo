@@ -1,0 +1,1 @@
+../build-Debug/AdvancedFunctions/main.c.o ../build-Debug/AdvancedFunctions/variadic.c.o ../build-Debug/AdvancedFunctions/recursion.c.o ../build-Debug/AdvancedFunctions/recursionChallenge.c.o ../build-Debug/AdvancedFunctions/variadicChallenge.c.o ../build-Debug/AdvancedFunctions/inline_noreturn.c.o

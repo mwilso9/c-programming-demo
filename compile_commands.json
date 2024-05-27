@@ -1,0 +1,625 @@
+[{
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\networkingChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\networkingChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\networkingChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\client.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\client.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\client.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\networkingChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\networkingChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\networkingChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\server.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\server.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\server.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\client.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\client.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\client.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\server.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\server.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Networking\\server.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\signals.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\signals.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\signals.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall  -std=gnu99"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\forks.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\forks.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\forks.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall  -std=gnu99"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\challenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\challenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\challenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall  -std=gnu99"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\forks.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\forks.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\forks.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall  -std=gnu99"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\signalsChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\signalsChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\signalsChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\signals.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\signals.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InterprocessCommSignals\\signals.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\assertLib.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\assertLib.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\assertLib.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\challenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\challenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\challenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\datetimeLib.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\datetimeLib.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\datetimeLib.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\generalLib.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\generalLib.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\generalLib.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\assertLib.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\assertLib.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\assertLib.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\usefulLibChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\usefulLibChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\usefulLibChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\datetimeLib.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\datetimeLib.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\datetimeLib.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\generalLib.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\generalLib.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\UsefulCLibraries\\generalLib.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\myLib.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\myLib.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\myLib.h.o  -I. -I.  -gdwarf-2"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\main.c.o  -I. -I.  -gdwarf-2"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\StringFunctions.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\StringFunctions.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\StringFunctions.h.o  -I. -I.  -gdwarf-2"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\StringFunctions.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\StringFunctions.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myLib\\StringFunctions.c.o  -I. -I.  -gdwarf-2"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadFunc.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadFunc.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadFunc.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadsIntro.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadsIntro.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadsIntro.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\conditionVariables.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\conditionVariables.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\conditionVariables.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\mutexes.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\mutexes.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\mutexes.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\conditionVariables.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\conditionVariables.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\conditionVariables.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadsIntro.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadsIntro.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadsIntro.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadFunc.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadFunc.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\threadFunc.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\mutexes.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\mutexes.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Threads\\mutexes.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\DynStringFunctions.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\DynStringFunctions.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\DynStringFunctions.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\DynStringFunctions.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\DynStringFunctions.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\DynStringFunctions.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\myDynLib.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\myDynLib.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\myDynamicLibrary\\myDynLib.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\classChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\classChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\classChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall  -D DEBON_C -D FIX2"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugGdb.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugGdb.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugGdb.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall  -D DEBON_C -D FIX2"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\coreProfilingStatic.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\coreProfilingStatic.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\coreProfilingStatic.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall  -D DEBON_C -D FIX2"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\classChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\classChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\classChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugGdb.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugGdb.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugGdb.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugPre.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugPre.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugPre.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall  -D DEBON_C -D FIX2"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\coreProfilingStatic.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\coreProfilingStatic.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\coreProfilingStatic.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall  -D DEBON_C -D FIX2"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugPre.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugPre.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DebuggingAndCompiler\\debugPre.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unions.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unions.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unions.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\macros.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\macros.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\macros.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\macros.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\macros.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\macros.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\preprocessor.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\preprocessor.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\preprocessor.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\preprocessor.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\preprocessor.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\preprocessor.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unions.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unions.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unions.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unionsChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unionsChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unionsChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unionsChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unionsChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Unions\\unionsChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\goto.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\goto.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\goto.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\gotoChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\gotoChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\gotoChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\nullComma.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\nullComma.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\nullComma.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jumpChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jumpChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jumpChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\goto.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\goto.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\goto.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jump.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jump.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jump.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jump.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jump.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jump.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jumpChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jumpChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\jumpChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\gotoChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\gotoChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\gotoChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\nullComma.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\nullComma.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ControlFLow\\nullComma.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\main.c.o   -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\staticLib.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\staticLib.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\staticLib.c.o   -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\dynamicLib.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\dynamicLib.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\dynamicLib.c.o   -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\sharedObj.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\sharedObj.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\sharedObj.c.o   -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\dynamicLib.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\dynamicLib.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\dynamicLib.h.o   -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\sharedObj.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\sharedObj.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\sharedObj.h.o   -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\staticLib.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\staticLib.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\StaticLibSharedObj\\staticLib.h.o   -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\Challenge1.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\Challenge1.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\Challenge1.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\Challenge2.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\Challenge2.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\Challenge2.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\challenge3.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\challenge3.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\challenge3.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\advancedDataTypes.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\advancedDataTypes.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedDataTypes\\advancedDataTypes.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\binaryNumberChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\binaryNumberChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\binaryNumberChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperators.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperators.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperators.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmaskChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmaskChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmaskChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmaskChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmaskChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmaskChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitField.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitField.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitField.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmask.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmask.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmask.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperators.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperators.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperators.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitField.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitField.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitField.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitFieldChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitFieldChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitFieldChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperatorsChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperatorsChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperatorsChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmask.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmask.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitmask.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\binaryNumberChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\binaryNumberChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\binaryNumberChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperatorsChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperatorsChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitwiseOperatorsChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitFieldChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitFieldChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Binary\\bitFieldChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedLists.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedLists.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedLists.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\binaryTrees.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\binaryTrees.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\binaryTrees.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\queues.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\queues.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\queues.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\stacks.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\stacks.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\stacks.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedListsChall.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedListsChall.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedListsChall.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\binaryTrees.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\binaryTrees.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\binaryTrees.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedLists.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedLists.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedLists.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedListsChall.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedListsChall.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\linkedListsChall.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\queues.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\queues.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\queues.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\stacks.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\stacks.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\DataStructures\\stacks.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadic.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadic.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadic.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadicChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadicChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadicChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursionChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursionChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursionChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\inline_noreturn.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\inline_noreturn.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\inline_noreturn.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursionChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursionChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursionChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadic.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadic.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadic.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\inline_noreturn.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\inline_noreturn.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\inline_noreturn.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursion.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursion.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursion.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursion.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursion.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\recursion.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadicChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadicChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedFunctions\\variadicChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\other.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\other.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\other.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\volatile_restrict.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\volatile_restrict.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\volatile_restrict.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\const.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\const.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\const.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\header.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\header.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\TypeQualifiers\\header.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ExampleHeader\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ExampleHeader",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ExampleHeader\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ExampleHeader\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ExampleHeader\\date.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ExampleHeader",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ExampleHeader\\date.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\ExampleHeader\\date.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Project2\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Project2",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Project2\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Project2\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\other.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\other.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\other.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\linkedlist.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\linkedlist.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\linkedlist.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\linkedlist.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\linkedlist.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\linkedlist.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\insert.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\insert.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\insert.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\insert.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\insert.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\insert.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\other.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\other.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Testing\\other.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\doublePointers.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\doublePointers.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\doublePointers.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\functionPointers.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\functionPointers.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\functionPointers.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\functionPointers.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\functionPointers.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\functionPointers.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\voidPointers.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\voidPointers.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\voidPointers.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\doublePointers.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\doublePointers.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\doublePointers.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\voidPointers.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\voidPointers.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\AdvancedPointers\\voidPointers.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\charChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\charChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\charChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formatting.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formatting.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formatting.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\char.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\char.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\char.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formattingChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formattingChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formattingChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringChallenge.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringChallenge.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringChallenge.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\char.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\char.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\char.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\charChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\charChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\charChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringLecture.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringLecture.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringLecture.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formatting.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formatting.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formatting.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formattingChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formattingChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\formattingChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringChallenge.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringChallenge.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringChallenge.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringLecture.h",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput",
+  "command": "C:/cygwin64/bin/x86_64-pc-cygwin-g++.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringLecture.h -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\InputOutput\\stringLecture.h.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\OurFirstProgram\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\OurFirstProgram",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\OurFirstProgram\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\OurFirstProgram\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }, {
+  "file": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Project1\\main.c",
+  "directory": "C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Project1",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Project1\\main.c -o C:\\Users\\mugiw\\Documents\\Workspaces\\c-programming-demo\\Project1\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]

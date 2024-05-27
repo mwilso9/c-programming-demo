@@ -1,0 +1,1 @@
+../build-Debug/UsefulCLibraries/main.c.o ../build-Debug/UsefulCLibraries/challenge.c.o ../build-Debug/UsefulCLibraries/assertLib.c.o ../build-Debug/UsefulCLibraries/generalLib.c.o ../build-Debug/UsefulCLibraries/datetimeLib.c.o

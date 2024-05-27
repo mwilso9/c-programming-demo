@@ -1,0 +1,1 @@
+../build-Debug/InputOutput/char.c.o ../build-Debug/InputOutput/charChallenge.c.o ../build-Debug/InputOutput/formattingChallenge.c.o ../build-Debug/InputOutput/main.c.o ../build-Debug/InputOutput/formatting.c.o ../build-Debug/InputOutput/stringLecture.c.o ../build-Debug/InputOutput/stringChallenge.c.o

@@ -1,0 +1,1 @@
+../build-Debug/Testing/other.c.o ../build-Debug/Testing/linkedlist.c.o ../build-Debug/Testing/insert.c.o ../build-Debug/Testing/main.c.o

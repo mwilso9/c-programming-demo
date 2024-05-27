@@ -1,0 +1,1 @@
+../build-Debug/StaticLibSharedObj/main.c.o ../build-Debug/StaticLibSharedObj/sharedObj.c.o

@@ -1,0 +1,1 @@
+../build-Debug/myLib/StringFunctions.c.o ../build-Debug/myLib/main.c.o

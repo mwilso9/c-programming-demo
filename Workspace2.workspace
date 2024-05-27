@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Workspace2" Database="" Version="10000">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="OurFirstProgram" Path="OurFirstProgram/OurFirstProgram.project" Active="No"/>
+  <Project Name="Testing" Path="Testing/Testing.project" Active="No"/>
+  <Project Name="HeaderFileTesting" Path="ExampleHeader/ExampleHeader.project" Active="No"/>
+  <Project Name="AdvancedDataTypes" Path="AdvancedDataTypes/AdvancedDataTypes.project" Active="No"/>
+  <Project Name="TypeQualifiers" Path="TypeQualifiers/TypeQualifiers.project" Active="No"/>
+  <Project Name="Binary" Path="Binary/Binary.project" Active="No"/>
+  <Project Name="ControlFLow" Path="ControlFLow/ControlFLow.project" Active="No"/>
+  <Project Name="InputOutput" Path="InputOutput/InputOutput.project" Active="No"/>
+  <Project Name="AdvancedFunctions" Path="AdvancedFunctions/AdvancedFunctions.project" Active="No"/>
+  <Project Name="UnionsAndPreprocessor" Path="Unions/Unions.project" Active="No"/>
+  <Project Name="DebuggingAndCompiler" Path="DebuggingAndCompiler/DebuggingAndCompiler.project" Active="No"/>
+  <Project Name="AdvancedPointers" Path="AdvancedPointers/AdvancedPointers.project" Active="No"/>
+  <Project Name="StaticLibSharedObj" Path="StaticLibSharedObj/StaticLibSharedObj.project" Active="No"/>
+  <Project Name="myLib" Path="myLib/myLib.project" Active="No"/>
+  <Project Name="myDynamicLibrary" Path="myDynamicLibrary/myDynamicLibrary.project" Active="No"/>
+  <Project Name="UsefulCLibraries" Path="UsefulCLibraries/UsefulCLibraries.project" Active="Yes"/>
+  <Project Name="DataStructures" Path="DataStructures/DataStructures.project" Active="No"/>
+  <Project Name="InterprocessCommSignals" Path="InterprocessCommSignals/InterprocessCommSignals.project" Active="No"/>
+  <Project Name="Threads" Path="Threads/Threads.project" Active="No"/>
+  <Project Name="Networking" Path="Networking/Networking.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="OurFirstProgram" ConfigName="Debug"/>
+      <Project Name="Testing" ConfigName="Debug"/>
+      <Project Name="HeaderFileTesting" ConfigName="Debug"/>
+      <Project Name="AdvancedDataTypes" ConfigName="Debug"/>
+      <Project Name="TypeQualifiers" ConfigName="Debug"/>
+      <Project Name="Binary" ConfigName="Debug"/>
+      <Project Name="ControlFLow" ConfigName="Debug"/>
+      <Project Name="InputOutput" ConfigName="Debug"/>
+      <Project Name="AdvancedFunctions" ConfigName="Debug"/>
+      <Project Name="UnionsAndPreprocessor" ConfigName="Debug"/>
+      <Project Name="DebuggingAndCompiler" ConfigName="Debug"/>
+      <Project Name="AdvancedPointers" ConfigName="Debug"/>
+      <Project Name="StaticLibSharedObj" ConfigName="Debug"/>
+      <Project Name="myLib" ConfigName="Debug"/>
+      <Project Name="myDynamicLibrary" ConfigName="Debug"/>
+      <Project Name="UsefulCLibraries" ConfigName="Debug"/>
+      <Project Name="DataStructures" ConfigName="Debug"/>
+      <Project Name="InterprocessCommSignals" ConfigName="Debug"/>
+      <Project Name="Threads" ConfigName="Debug"/>
+      <Project Name="Networking" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="OurFirstProgram" ConfigName="Release"/>
+      <Project Name="Testing" ConfigName="Release"/>
+      <Project Name="HeaderFileTesting" ConfigName="Release"/>
+      <Project Name="AdvancedDataTypes" ConfigName="Release"/>
+      <Project Name="TypeQualifiers" ConfigName="Release"/>
+      <Project Name="Binary" ConfigName="Release"/>
+      <Project Name="ControlFLow" ConfigName="Release"/>
+      <Project Name="InputOutput" ConfigName="Release"/>
+      <Project Name="AdvancedFunctions" ConfigName="Release"/>
+      <Project Name="UnionsAndPreprocessor" ConfigName="Release"/>
+      <Project Name="DebuggingAndCompiler" ConfigName="Release"/>
+      <Project Name="AdvancedPointers" ConfigName="Release"/>
+      <Project Name="StaticLibSharedObj" ConfigName="Release"/>
+      <Project Name="myLib" ConfigName="Release"/>
+      <Project Name="myDynamicLibrary" ConfigName="Release"/>
+      <Project Name="UsefulCLibraries" ConfigName="Release"/>
+      <Project Name="DataStructures" ConfigName="Release"/>
+      <Project Name="InterprocessCommSignals" ConfigName="Release"/>
+      <Project Name="Threads" ConfigName="Release"/>
+      <Project Name="Networking" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

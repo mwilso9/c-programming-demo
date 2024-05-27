@@ -1,0 +1,1 @@
+../build-Debug/DebuggingAndCompiler/classChallenge.c.o ../build-Debug/DebuggingAndCompiler/main.c.o ../build-Debug/DebuggingAndCompiler/coreProfilingStatic.c.o ../build-Debug/DebuggingAndCompiler/debugGdb.c.o ../build-Debug/DebuggingAndCompiler/debugPre.c.o

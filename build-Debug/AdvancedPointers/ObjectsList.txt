@@ -1,0 +1,1 @@
+../build-Debug/AdvancedPointers/main.c.o ../build-Debug/AdvancedPointers/doublePointers.c.o ../build-Debug/AdvancedPointers/functionPointers.c.o ../build-Debug/AdvancedPointers/voidPointers.c.o
